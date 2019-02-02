@@ -8,7 +8,7 @@ Winestripe is a repackaging of the Winestripe default theme from Firefox 2 in a 
 
 ### Installation
 
-Download and install the xpi from the releases page.
+Download and install the xpi from the [releases page](https://github.com/TortoiseWrath/winestripe/releases).
 
 ### License
 
